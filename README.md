@@ -1,6 +1,7 @@
 # Face Under Mask Reconstruction, Image Inpainting, and Object Detection and Segmentation with the Detectron2 library
 
  Steps:
+ 
  •	Preprocessed, cleaned, and prepared custom datasets for the model with over 21,000 images from the CelebA dataset
 
  •	Trained a detector from the Detectron2 library to detect and segment the occlusions in a face image
