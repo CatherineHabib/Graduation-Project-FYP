@@ -4,7 +4,7 @@
  
  •	Preprocessed, cleaned, and prepared custom datasets for the model with over 21,000 images🖼️ from the CelebA and UTKFace datasets with faces of different genders, ages, and races 👧🏻👩🏻👵🏻 👴🏻👨🏻👦🏻
 
- •	Trained a detector🕵🏻‍♀️ from the Detectron2 library to detect and segment the occlusions in a face🧔🏻‍♂️🧑🏻 image
+ •	Trained a detector🕵🏻‍♀️ from the Detectron2 library to detect and segment the occlusions in a face🗿 image
 
  •	Built vanilla and partial convolution encoders and decoders with a discriminator for the inpainting tasks
 
