@@ -8,7 +8,7 @@
 
  •	Built vanilla and partial convolution encoders and decoders with a discriminator for the inpainting tasks
 
- •	Trained the inpainting module separately for several hours
+ •	Trained the inpainting module separately for several hours⏳
 
  •	Achieved average accuracy🧾🏆 in the results📊
 
